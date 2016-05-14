@@ -15,12 +15,9 @@ public class Project_Manager {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Escopo Main Principal");
-        //TESTE COMMIT EMANUEL
-        System.out.println("testando EMANUEL")
-                
-                //COMMIT REALIZADO COM SUCESSO EMANUEL
+         // TODO code application logic here
+         //TESTE COMMIT EMANUEL
+         //COMMIT REALIZADO COM SUCESSO EMANUEL
     }
     
 }
