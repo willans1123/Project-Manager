@@ -18,6 +18,9 @@ public class Project_Manager {
          /* TODO code application logic here
          TESTE COMMIT EMANUEL
          COMMIT REALIZADO COM SUCESSO EMANUEL*/
+          System.out.println("Escopo Main Principal");
+        //TESTE COMMIT EMANUEL
+        System.out.println("testando EMANUEL")
     }
     
 }
