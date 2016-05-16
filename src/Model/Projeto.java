@@ -10,5 +10,5 @@ package Model;
  * @author Estefheson
  */
 public class Projeto {
-    
+    private int id;
 }
