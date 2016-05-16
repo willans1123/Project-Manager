@@ -21,6 +21,7 @@ public class Project_Manager {
           System.out.println("Escopo Main Principal");
         //TESTE COMMIT EMANUEL
         System.out.println("testando EMANUEL")
+                //TESTE SEGUNDA (VERIFICAÇAO)
     }
     
 }
