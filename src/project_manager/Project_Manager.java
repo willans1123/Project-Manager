@@ -18,9 +18,7 @@ public class Project_Manager {
         // TODO code application logic here
         System.out.println("Escopo Main Principal");
          
-                      
-                
-                
+       
     }
     
 }
