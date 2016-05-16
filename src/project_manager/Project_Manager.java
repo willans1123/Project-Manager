@@ -20,7 +20,7 @@ public class Project_Manager {
          COMMIT REALIZADO COM SUCESSO EMANUEL*/
           System.out.println("Escopo Main Principal");
         //TESTE COMMIT EMANUEL
-        System.out.println("testando EMANUEL")
+        //System.out.println("testando EMANUEL")
                 //TESTE SEGUNDA (VERIFICAÇAO)
          // TODO code application logic here
          //TESTE COMMIT EMANUEL
