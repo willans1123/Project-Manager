@@ -21,7 +21,7 @@ public class facade {
     public static ArrayList<Usuario> listarUsuarios(){
         return UsuarioControl.listarUsuario();
     }    
-    public static boolean deletarUsuario(Usuario usuario){
-        return UsuarioControl.deletarUsuario(usuario);
-    }
+   // public static boolean deletarUsuario(Usuario usuario){
+     //   return UsuarioControl.deletarUsuario(usuario);
+    //}
 }
