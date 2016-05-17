@@ -10,7 +10,6 @@ public class Usuario {
     private String senha;
     private String email;
     private String nomeCompleto;
-
     
 public long getId() {
         return id;
