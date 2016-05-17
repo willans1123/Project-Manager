@@ -4,8 +4,11 @@
  * and open the template in the editor.
  */
 package Model;
-//Autor Estefheson
-public class java {
+/**
+ *
+ * @author Estefheson
+ */
+public class Usuario {
 
     private int id;
     private String login;
