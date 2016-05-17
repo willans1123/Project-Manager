@@ -24,4 +24,5 @@ public class facade {
    // public static boolean deletarUsuario(Usuario usuario){
      //   return UsuarioControl.deletarUsuario(usuario);
     //}
+    
 }
