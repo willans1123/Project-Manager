@@ -1,9 +1,9 @@
 package facade;
 
-import control.ProjetoControl;
+//import control.ProjetoControl;
 import control.UsuarioControl;
 import java.util.ArrayList;
-import model.Projeto;
+//import model.Projeto;
 import model.Usuario;
 /**
  *
